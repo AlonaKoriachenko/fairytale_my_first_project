@@ -1,0 +1,19 @@
+body {
+  background: rgb(255, 250, 205);
+}
+
+h1 {
+  text-align: center;
+  color: red;
+  font-size: 18px;
+}
+
+h2 {
+  text-transform: uppercase;
+  font-weight: 100;
+  font-size: 15px;
+}
+
+.italics {
+  font-style: italic;
+}
